@@ -1,0 +1,14 @@
+@charset "utf-8";
+
+h1,
+h2 {
+  color: rgb(0, 97, 97);
+  font-size: 32px;
+  font-family: cursive;
+}
+
+body {
+  color: darkcyan;
+  font-size: 24px;
+  font-family: cursive;
+}
